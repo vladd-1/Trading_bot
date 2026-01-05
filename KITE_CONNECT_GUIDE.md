@@ -49,7 +49,7 @@ KITE_API_SECRET = "your_api_secret_here"
 If you haven't already set up the environment:
 
 ```bash
-cd /home/vladd/Downloads/Trading_bot
+cd Trading_bot
 bash setup.sh
 source venv/bin/activate
 ```
