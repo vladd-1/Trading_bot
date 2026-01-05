@@ -1,0 +1,31 @@
+============================================================
+BACKTEST PERFORMANCE REPORT
+============================================================
+
+CAPITAL
+Initial Capital:        $100,000.00
+Final Capital:          $100,556.12
+Total Return:           $556.12
+Total Return %:         0.56%
+
+TRADE STATISTICS
+Total Trades:           4
+Winning Trades:         4 (100.0%)
+Losing Trades:          0 (0.0%)
+
+PROFIT/LOSS
+Average Win:            $139.03
+Average Loss:           $0.00
+Largest Win:            $203.32
+Largest Loss:           $0.00
+Profit Factor:          inf
+
+RISK METRICS
+Sharpe Ratio:           0.73
+Sortino Ratio:          0.18
+Max Drawdown:           -0.03%
+
+TIMING
+Avg Holding Time:       0 days 22:18:45
+
+============================================================

@@ -1,0 +1,23 @@
+# Core dependencies
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Kite Connect API for Indian stocks
+kiteconnect>=4.0.0
+pyotp>=2.8.0  # For TOTP 2FA authentication
+
+# Technical indicators
+pandas-ta>=0.3.14b
+
+# Visualization
+matplotlib>=3.7.0
+plotly>=5.14.0
+seaborn>=0.12.0
+
+# Utilities
+python-dateutil>=2.8.0
+pytz>=2023.3
+requests>=2.31.0
+
+# Testing (optional)
+pytest>=7.4.0
