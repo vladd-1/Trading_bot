@@ -44,7 +44,7 @@ KITE_API_SECRET = "your_api_secret_here"
 ### Step 3: Install Dependencies
 
 ```bash
-cd /home/vladd/Downloads/Trading_bot
+cd Trading_bot
 bash setup.sh
 ```
 
